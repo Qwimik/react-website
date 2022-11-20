@@ -70,6 +70,10 @@ h1 {
   box-sizing: border-box;
 }
 
+.cards__item__pic-wrap:nth-child(1) {
+  background: url("../../public/images/img-9.jpg") center center/cover no-repeat;
+}
+
 .cards__item__img {
   position: absolute;
   top: 0;
@@ -116,11 +120,23 @@ h1 {
     margin-bottom: 2rem;
   }
 }
-.card-img1 {
+/* .card-img1 {
   width: 100%;
   background: url("../../public/images/img-9.jpg") center center/cover no-repeat;
-}
+} */
 .card-img2 {
   width: 100%;
   background: url("../../public/images/img-2.jpg") center center/cover no-repeat;
+}
+.card-img3 {
+  width: 100%;
+  background: url("../../public/images/img-3.jpg") center center/cover no-repeat;
+}
+.card-img4 {
+  width: 100%;
+  background: url("../../public/images/img-4.jpg") center center/cover no-repeat;
+}
+.card-img5 {
+  width: 100%;
+  background: url("../../public/images/img-5.jpg") center center/cover no-repeat;
 }

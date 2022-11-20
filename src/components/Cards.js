@@ -24,19 +24,19 @@ function Cards() {
           </ul>
           <ul className="cards__items">
             <CardItem
-              src="./react-website/static/media/img-3.jpg"
+              src="card-img3"
               text="Set Sail in the Atlantic Ocean visiting Uncharted Waters"
               label="Mystery"
               path="/services"
             />
             <CardItem
-              src="./react-website/static/media/img-4.jpg"
+              src="card-img4"
               text="Experience Football on Top of the Himilayan Mountains"
               label="Advanture"
               path="/services"
             />
             <CardItem
-              src="./react-website/static/media/img-8.jpg"
+              src="card-img5"
               text="Ride through the Sahara Desert on a guided camel tour"
               label="Adrenaline"
               path="/signup"
