@@ -116,3 +116,11 @@ h1 {
     margin-bottom: 2rem;
   }
 }
+.card-img1 {
+  width: 100%;
+  background: url("../../public/images/img-9.jpg") center center/cover no-repeat;
+}
+.card-img2 {
+  width: 100%;
+  background: url("../../public/images/img-2.jpg") center center/cover no-repeat;
+}

@@ -10,13 +10,13 @@ function Cards() {
         <div className="cards__wrapper">
           <ul className="cards__items">
             <CardItem
-              src="./react-website/static/media/img-9.jpg"
+              src="card-img1"
               text="Explore the hidden waterfall deep inside the Amazon Jungle"
               label="Adventure"
               path="/services"
             />
             <CardItem
-              src="./react-website/static/media/img-2.jpg"
+              src="card-img2"
               text="Travel through the Islands of Bali in a Private Cruise"
               label="Luxury"
               path="/services"
