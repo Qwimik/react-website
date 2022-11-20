@@ -1,6 +1,5 @@
 {
   "name": "react-test-website",
-  "homepage": "https://github.com/Qwimik/react-website",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
